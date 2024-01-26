@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!-- »ı·« -->
+        <!-- ìƒëµ -->
     </head>
     <body>
+        <x-header asdasdasdasd="kingchobo incã…Šã…Šã…Šã…Š." :zzzzz="$products"/><br>
         <div id="app">
             dddddddddd
         </div>
-
     </body>
 </html>

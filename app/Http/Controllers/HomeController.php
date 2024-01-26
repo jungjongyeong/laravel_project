@@ -6,8 +6,8 @@ use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
-    public function index(): string
+    public function index($name = null): string
     {
-        return '¾È³çÇÏ¼¼¿ä from HomeController';
+        return 'ì•ˆë…•í•˜ì„¸ìš” from HomeController ì´ë¦„ : '. $name;
     }
 }
